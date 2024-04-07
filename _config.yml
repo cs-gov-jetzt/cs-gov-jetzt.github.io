@@ -14,6 +14,8 @@ minima:
 header:
   teaser: pueblosquare.png
 
+user:
+  display: true
 
 author:
   name   : Saqib Ali
