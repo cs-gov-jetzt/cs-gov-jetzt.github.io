@@ -1,1 +1,1 @@
-# Computer Science @ Jetzt Gov
+# Computer Science (CompSci) @ Jetzt Gov
