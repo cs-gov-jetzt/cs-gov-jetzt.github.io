@@ -12,12 +12,12 @@ minima:
   skin: solarized
 
 header:
-  teaser: my-awesome-post-teaser.jpg
+  teaser: pueblosquare.png
 
 
 author:
   name   : Saqib Ali
-  avatar : "bio-photo.jpg"  # placed in /images/
+  avatar : pueblosquare.png
   bio    : Computer Scientist
   email  : docbook.xml@gmail.com
   uri    : https://qosf.com
