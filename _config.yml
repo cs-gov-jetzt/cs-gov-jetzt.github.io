@@ -11,6 +11,10 @@ remote_theme: jekyll/minima
 minima:
   skin: solarized
 
+header:
+  teaser: my-awesome-post-teaser.jpg
+
+
 author:
   name   : Saqib Ali
   avatar : "bio-photo.jpg"  # placed in /images/
