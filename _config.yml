@@ -10,7 +10,7 @@ titles_from_headings:
 remote_theme: jekyll/minima
 minima:
   skin: solarized
-  date_format: "%A, %B %d, %y %H:%M %Z"
+  date_format: "%A, %B %d, %yyyy %H:%M %Z"
   
 header:
   teaser: pueblosquare.png
